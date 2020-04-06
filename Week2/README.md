@@ -20,7 +20,7 @@
 - The "jokefetcher" document contains the react part.
 - Everything is done except for '5e'.
 
-## 27.03.2020 – Friday
+## 03.04.2020 – Friday
 
 - There was no assignment for this day.
 
