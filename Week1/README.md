@@ -1,4 +1,4 @@
-# Flow3
+# Flow3Week1
 
 ## 24.03.2020 - Tuesday
 ⁃	The assignment “JavaScript/React” for this day is found in the "flow3week3day1ex" file. None of the coloured exercises are done.
